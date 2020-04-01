@@ -29,6 +29,78 @@
      id="defs110">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient171">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop167" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop169" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient162">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop158" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop160" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient154">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop150" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop152" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient146">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop142" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop144" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient138">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop134" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop136" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient130">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop126" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop128" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient224">
       <stop
          style="stop-color:#ff00ff;stop-opacity:1"
@@ -257,7 +329,8 @@
        y1="16"
        x2="28"
        y2="16"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(192)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient176"
@@ -320,6 +393,61 @@
        y1="-11"
        x2="179"
        y2="-11"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(31.999999)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient130"
+       id="linearGradient132"
+       x1="8"
+       y1="16.019531"
+       x2="24"
+       y2="16.019531"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient138"
+       id="linearGradient140"
+       x1="5"
+       y1="11"
+       x2="16"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient146"
+       id="linearGradient148"
+       x1="3"
+       y1="15.5"
+       x2="29"
+       y2="15.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient154"
+       id="linearGradient156"
+       x1="427.0002"
+       y1="-154.00336"
+       x2="445.0002"
+       y2="-154.00336"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient162"
+       id="linearGradient164"
+       x1="3"
+       y1="15.5"
+       x2="29"
+       y2="15.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient171"
+       id="linearGradient173"
+       x1="449.0002"
+       y1="-154.00336"
+       x2="467.0002"
+       y2="-154.00336"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -336,7 +464,7 @@
      id="namedview108"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="108.06005"
+     inkscape:cx="209.9661"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -353,7 +481,7 @@
        y="0"
        id="rect2" />
     <path
-       style="fill:#dedede"
+       style="fill:url(#linearGradient140)"
        d="M 10,3 C 7.1891901,3.2515385 5,5.6018325 5,8.484375 v 0.5 h 5 z m 1,0 v 5.984375 h 5 v -0.5 C 16,5.6018325 13.81081,3.2515385 11,3 Z M 5,9.9863281 V 13.492188 C 5,16.543658 7.4530001,19 10.5,19 13.547,19 16,16.543658 16,13.492188 V 9.9863281 H 11 10 Z M 11,11 v 3 h 2 l -3,4 V 15 H 8 Z"
        id="path4" />
   </g>
@@ -425,7 +553,7 @@
        d="m 425.0002,-165.00336 h 22 c 0,0 0,0 0,0 v 22 c 0,0 0,0 0,0 h -22 c 0,0 0,0 0,0 v -22 c 0,0 0,0 0,0 z"
        id="path27" />
     <path
-       style="fill:#dedede"
+       style="fill:url(#linearGradient156)"
        d="m 428.19942,-162.00336 c -1.2,0 -1.19922,1.23047 -1.19922,1.23047 v 13.53906 c 0,0 -7.8e-4,1.23047 1.19922,1.23047 h 15.60156 c 0,0 1.19922,3e-4 1.19922,-1.23047 v -13.53906 c 0,-1.23077 -1.19922,-1.23047 -1.19922,-1.23047 z m 12.80078,2 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z m -12,3 h 6 v 3 h -6 z m 8,0 h 6 v 3 h -6 z"
        id="path29" />
   </g>
@@ -437,7 +565,7 @@
        d="m 447.0002,-165.00336 h 22 c 0,0 0,0 0,0 v 22 c 0,0 0,0 0,0 h -22 c 0,0 0,0 0,0 v -22 c 0,0 0,0 0,0 z"
        id="path32" />
     <path
-       style="opacity:0.3;fill:#dedede"
+       style="opacity:0.3;fill:url(#linearGradient173)"
        d="m 450.19942,-162.00336 c -1.2,0 -1.19922,1.23047 -1.19922,1.23047 v 13.53906 c 0,0 -7.8e-4,1.23047 1.19922,1.23047 h 15.60156 c 0,0 1.19922,3e-4 1.19922,-1.23047 v -13.53906 c 0,-1.23077 -1.19922,-1.23047 -1.19922,-1.23047 z m 12.80078,2 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z m -12,3 h 6 v 3 h -6 z m 8,0 h 6 v 3 h -6 z"
        id="path34" />
   </g>
@@ -482,12 +610,9 @@
        id="rect47" />
     <path
        style="opacity:0.3;fill:url(#linearGradient226)"
-       d="m 165,-17 c -1.108,0 -2,0.892 -2,2 v 8 c 0,1.108 0.892,2 2,2 h 7.00781 a 5,5 0 0 1 -0.90234,-2 H 171 165 v -2 h 6 0.10156 a 5,5 0 0 1 0.31836,-1 H 170 v -2 h 2 v 1.009766 a 5,5 0 0 1 1,-1.001954 V -12 h 0.01 a 5,5 0 0 1 2.99,-1 v -2 h 2 v 2 h -2 a 5,5 0 0 1 3,1.007812 V -15 c 0,-1.108 -0.892,-2 -2,-2 z m -1,2 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z m -9,3 h 2 v 2 h -2 z m 3,0 h 2 v 2 h -2 z"
+       d="M 197 -17 C 195.892 -17 195 -16.108 195 -15 L 195 -7 C 195 -5.892 195.892 -5 197 -5 L 204.00781 -5 A 5 5 0 0 1 203.10547 -7 L 203 -7 L 197 -7 L 197 -9 L 203 -9 L 203.10156 -9 A 5 5 0 0 1 203.41992 -10 L 202 -10 L 202 -12 L 204 -12 L 204 -10.990234 A 5 5 0 0 1 205 -11.992188 L 205 -12 L 205.00977 -12 A 5 5 0 0 1 208 -13 L 208 -15 L 210 -15 L 210 -13 L 208 -13 A 5 5 0 0 1 211 -11.992188 L 211 -15 C 211 -16.108 210.108 -17 209 -17 L 197 -17 z M 196 -15 L 198 -15 L 198 -13 L 196 -13 L 196 -15 z M 199 -15 L 201 -15 L 201 -13 L 199 -13 L 199 -15 z M 202 -15 L 204 -15 L 204 -13 L 202 -13 L 202 -15 z M 205 -15 L 207 -15 L 207 -13 L 205 -13 L 205 -15 z M 196 -12 L 198 -12 L 198 -10 L 196 -10 L 196 -12 z M 199 -12 L 201 -12 L 201 -10 L 199 -10 L 199 -12 z M 208 -12 C 205.7909 -12 204 -10.2091 204 -8 C 204 -5.7909 205.7909 -4 208 -4 C 210.2091 -4 212 -5.7909 212 -8 C 212 -10.2091 210.2091 -12 208 -12 z M 206.35742 -10.367188 L 206.35352 -10.353516 L 208 -8.7070312 L 209.64648 -10.353516 L 210.35352 -9.6464844 L 208.70703 -8 L 210.35352 -6.3535156 L 209.64648 -5.6464844 L 208.00391 -7.3066406 L 206.35742 -5.6601562 L 205.65039 -6.3671875 L 207.29688 -8.0136719 L 205.65039 -9.6601562 L 206.35742 -10.367188 z "
+       transform="translate(-31.999999)"
        id="path49" />
-    <path
-       style="fill:#dedede"
-       d="m 176,-12 c -2.2091,0 -4,1.7909 -4,4 0,2.2091 1.7909,4 4,4 2.2091,0 4,-1.7909 4,-4 0,-2.2091 -1.7909,-4 -4,-4 z m -1.64258,1.632812 -0.004,0.01367 1.64648,1.6464848 1.64648,-1.6464848 0.70704,0.7070316 L 176.70703,-8 l 1.64649,1.6464844 -0.70704,0.7070312 -1.64257,-1.6601562 -1.64649,1.6464844 -0.70703,-0.7070313 1.64649,-1.6464844 -1.64649,-1.6464843 z"
-       id="path51" />
   </g>
   <g
      id="input-caps-on"
@@ -576,12 +701,9 @@
        id="rect79" />
     <path
        style="opacity:0.3;fill:url(#linearGradient170)"
-       d="M 7,7 C 5.3379999,7 4,8.3380004 4,10 v 12 c 0,1.662001 1.3379999,3 3,3 H 17.080078 C 16.556243,24.096044 16.203731,23.083249 16.068359,22 H 16 7 v -3 h 9 0.261719 c 0.183158,-0.71002 0.459499,-1.380733 0.818359,-2 H 17 v -3 h 3 v 0.08008 C 21.177882,13.397505 22.540705,13 24,13 c 1.459295,0 2.822118,0.397505 4,1.080078 V 10 C 28,8.3380005 26.662,7 25,7 Z m 0,2 h 3 v 3 H 7 Z m 5,0 h 3 v 3 h -3 z m 5,0 h 3 v 3 h -3 z m 5,0 h 3 v 3 H 22 Z M 7,14 h 3 v 3 H 7 Z m 5,0 h 3 v 3 h -3 z"
+       d="M 199 7 C 197.338 7 196 8.3380004 196 10 L 196 22 C 196 23.662001 197.338 25 199 25 L 209.08008 25 C 208.55624 24.096044 208.20373 23.083249 208.06836 22 L 208 22 L 199 22 L 199 19 L 208 19 L 208.26172 19 C 208.44488 18.28998 208.72122 17.619267 209.08008 17 L 209 17 L 209 14 L 212 14 L 212 14.080078 C 213.17788 13.397503 214.54071 13 216 13 C 217.45929 13 218.82212 13.397505 220 14.080078 L 220 10 C 220 8.3380005 218.662 7 217 7 L 199 7 z M 199 9 L 202 9 L 202 12 L 199 12 L 199 9 z M 204 9 L 207 9 L 207 12 L 204 12 L 204 9 z M 209 9 L 212 9 L 212 12 L 209 12 L 209 9 z M 214 9 L 217 9 L 217 12 L 214 12 L 214 9 z M 199 14 L 202 14 L 202 17 L 199 17 L 199 14 z M 204 14 L 207 14 L 207 17 L 204 17 L 204 14 z M 216 15 C 212.68635 15 210 17.68635 210 21 C 210 24.31365 212.68635 27 216 27 C 219.31365 27 222 24.31365 222 21 C 222 17.68635 219.31365 15 216 15 z M 213.53516 17.449219 L 213.5293 17.46875 L 216 19.939453 L 218.46875 17.46875 L 219.5293 18.529297 L 217.06055 21 L 219.53125 23.46875 L 218.46875 24.529297 L 216.00586 22.039062 L 213.53516 24.509766 L 212.47461 23.449219 L 214.94531 20.978516 L 212.47461 18.509766 L 213.53516 17.449219 z "
+       transform="translate(-192)"
        id="path81" />
-    <path
-       style="fill:#dedede"
-       d="m 24,15 c -3.31365,0 -6,2.68635 -6,6 0,3.31365 2.68635,6 6,6 3.31365,0 6,-2.68635 6,-6 0,-3.31365 -2.68635,-6 -6,-6 z m -2.464844,2.449219 -0.0059,0.01953 L 24,19.939453 26.46875,17.46875 27.529297,18.529297 25.060547,21 l 2.470703,2.46875 -1.0625,1.060547 -2.462891,-2.490235 -2.470703,2.470704 -1.060547,-1.060547 2.470703,-2.470703 -2.470703,-2.46875 z"
-       id="path83" />
   </g>
   <g
      id="input-keyboard-battery"
@@ -609,7 +731,7 @@
        y="0"
        id="rect91" />
     <path
-       style="fill:#dedede"
+       style="fill:url(#linearGradient132)"
        d="M 15,4.0390625 C 11.044534,4.5452568 8,8.0000837 8,12.226562 V 12.599609 12.976562 13 h 7 z m 2,0 V 13 h 7 V 12.97656 12.599607 12.22656 C 24,8.0000876 20.955467,4.5452568 17,4.0390625 Z M 8,15 v 4.738281 C 8,24.315486 11.568,28 16,28 c 4.432,0 8,-3.684514 8,-8.261719 V 15 Z m 9,1 v 4 h 3 l -4,6 v -4 h -3 z"
        id="path93" />
   </g>
@@ -621,7 +743,7 @@
        d="M -1.5909e-6,-4.77288e-6 H 31.999999 c 0,0 0,0 0,0 V 31.999996 c 0,0 0,0 0,0 H -1.5909e-6 c 0,0 0,0 0,0 V -4.77288e-6 c 0,0 0,0 0,0 z"
        id="path96" />
     <path
-       style="fill:#dedede"
+       style="fill:url(#linearGradient148)"
        d="M 4.7324219,4 C 2.9990886,4 3,5.7695312 3,5.7695312 V 25.230469 C 3,25.230469 2.9990952,27 4.7324219,27 H 27.267578 C 27.267578,27 29,26.999701 29,25.230469 V 5.7695312 C 29,4.0002996 27.267578,4 27.267578,4 Z M 23,7 h 3 v 1 h -3 z m 0,3 h 3 v 1 h -3 z m 0,3 h 3 v 1 h -3 z m 0,3 h 3 v 1 H 23 Z M 6,20 h 9 v 4 H 6 Z m 11,0 h 9 v 4 h -9 z"
        id="path98" />
   </g>
@@ -633,7 +755,7 @@
        d="M -1.5909e-6,-4.77288e-6 H 31.999999 c 0,0 0,0 0,0 V 31.999996 c 0,0 0,0 0,0 H -1.5909e-6 c 0,0 0,0 0,0 V -4.77288e-6 c 0,0 0,0 0,0 z"
        id="path101" />
     <path
-       style="opacity:0.3;fill:#dedede"
+       style="opacity:0.3;fill:url(#linearGradient164)"
        d="M 4.7324219,4 C 2.9990886,4 3,5.7695312 3,5.7695312 V 25.230469 C 3,25.230469 2.9990952,27 4.7324219,27 H 27.267578 C 27.267578,27 29,26.999701 29,25.230469 V 5.7695312 C 29,4.0002996 27.267578,4 27.267578,4 Z M 23,7 h 3 v 1 h -3 z m 0,3 h 3 v 1 h -3 z m 0,3 h 3 v 1 h -3 z m 0,3 h 3 v 1 H 23 Z M 6,20 h 9 v 4 H 6 Z m 11,0 h 9 v 4 h -9 z"
        id="path103" />
   </g>

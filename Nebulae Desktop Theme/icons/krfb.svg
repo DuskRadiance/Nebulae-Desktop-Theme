@@ -12,7 +12,7 @@
    height="32"
    version="1.1"
    id="svg20"
-   sodipodi:docname="krfb.svg"
+   sodipodi:docname="emblem.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata26">
@@ -29,129 +29,45 @@
      id="defs24">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient72">
+       id="linearGradient42">
       <stop
          style="stop-color:#ff00ff;stop-opacity:1"
          offset="0"
-         id="stop68" />
-      <stop
-         style="stop-color:#00ffff;stop-opacity:1"
-         offset="1"
-         id="stop70" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient64">
-      <stop
-         style="stop-color:#ff00ff;stop-opacity:1"
-         offset="0"
-         id="stop60" />
-      <stop
-         style="stop-color:#00ffff;stop-opacity:1"
-         offset="1"
-         id="stop62" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient56">
-      <stop
-         style="stop-color:#ff00ff;stop-opacity:1"
-         offset="0"
-         id="stop52" />
-      <stop
-         style="stop-color:#00ffff;stop-opacity:1"
-         offset="1"
-         id="stop54" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient48">
-      <stop
-         style="stop-color:#ff00ff;stop-opacity:1"
-         offset="0"
-         id="stop44" />
-      <stop
-         style="stop-color:#00ffff;stop-opacity:1"
-         offset="1"
-         id="stop46" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient40">
-      <stop
-         style="stop-color:#ff00ff;stop-opacity:1"
-         offset="0"
-         id="stop36" />
-      <stop
-         style="stop-color:#00ffff;stop-opacity:1"
-         offset="1"
          id="stop38" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient32">
-      <stop
-         style="stop-color:#ff00ff;stop-opacity:1"
-         offset="0"
-         id="stop28" />
       <stop
          style="stop-color:#00ffff;stop-opacity:1"
          offset="1"
-         id="stop30" />
+         id="stop40" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient32"
-       id="linearGradient34"
+       id="linearGradient34">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop30" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop32" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient34"
+       id="linearGradient36"
        x1="5"
        y1="15.5"
-       x2="14"
+       x2="26"
        y2="15.5"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient40"
-       id="linearGradient42"
-       x1="17.000001"
-       y1="8.4999998"
-       x2="26"
-       y2="8.4999998"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient48"
-       id="linearGradient50"
-       x1="17.000001"
-       y1="22.5"
-       x2="26"
-       y2="22.5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient56"
-       id="linearGradient58"
-       x1="6.5234375"
-       y1="15.5"
-       x2="22.255859"
-       y2="15.5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient64"
-       id="linearGradient66"
-       x1="9"
-       y1="16"
-       x2="23"
-       y2="16"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient72"
-       id="linearGradient74"
-       x1="10.113281"
-       y1="16"
-       x2="20.529297"
-       y2="16"
+       xlink:href="#linearGradient42"
+       id="linearGradient44"
+       x1="36"
+       y1="21"
+       x2="50"
+       y2="21"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -175,7 +91,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg20" />
   <g
-     id="22-22-krfb"
+     id="22-22-emblem-shared-symbolic"
      transform="translate(27,5.0000005)">
     <rect
        style="opacity:0.001"
@@ -185,16 +101,13 @@
        y="5"
        id="rect2" />
     <path
-       style="fill:url(#linearGradient74);opacity:0.3"
-       d="M 19.470703,10.152344 10.113281,16 19.470703,21.847656 20.529297,20.152344 13.884766,16 20.529297,11.847656 Z"
+       style="fill:url(#linearGradient44)"
+       d="M 47 13 A 3 3 0 0 0 44 16 A 3 3 0 0 0 44.074219 16.650391 L 40.869141 18.652344 A 3 3 0 0 0 39 18 A 3 3 0 0 0 36 21 A 3 3 0 0 0 39 24 A 3 3 0 0 0 40.867188 23.345703 L 44.074219 25.349609 A 3 3 0 0 0 44 26 A 3 3 0 0 0 47 29 A 3 3 0 0 0 50 26 A 3 3 0 0 0 47 23 A 3 3 0 0 0 45.132812 23.654297 L 41.925781 21.650391 A 3 3 0 0 0 42 21 A 3 3 0 0 0 41.925781 20.349609 L 45.130859 18.345703 A 3 3 0 0 0 47 19 A 3 3 0 0 0 50 16 A 3 3 0 0 0 47 13 z "
+       transform="translate(-27,-5.0000005)"
        id="path4" />
-    <path
-       style="fill:url(#linearGradient66)"
-       d="m 20,8 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m -8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 8,5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
-       id="path6" />
   </g>
   <g
-     id="krfb">
+     id="emblem-shared-symbolic">
     <rect
        style="opacity:0.001"
        width="32"
@@ -203,20 +116,8 @@
        y="0"
        id="rect9" />
     <path
-       style="opacity:0.3;fill:url(#linearGradient58)"
-       d="M 20.744141,7.2050781 6.5234375,15.5 20.744141,23.794922 22.255859,21.205078 12.476562,15.5 22.255859,9.7949219 Z"
+       style="fill:url(#linearGradient36)"
+       d="M 21.5 4 A 4.5000001 4.5000001 0 0 0 17 8.5 A 4.5000001 4.5000001 0 0 0 17.082031 9.3417969 L 12.404297 12.070312 A 4.5000001 4.5000001 0 0 0 9.5 11 A 4.5000001 4.5000001 0 0 0 5 15.5 A 4.5000001 4.5000001 0 0 0 9.5 20 A 4.5000001 4.5000001 0 0 0 12.408203 18.931641 L 17.083984 21.660156 A 4.5000001 4.5000001 0 0 0 17 22.5 A 4.5000001 4.5000001 0 0 0 21.5 27 A 4.5000001 4.5000001 0 0 0 26 22.5 A 4.5000001 4.5000001 0 0 0 21.5 18 A 4.5000001 4.5000001 0 0 0 18.591797 19.068359 L 13.916016 16.339844 A 4.5000001 4.5000001 0 0 0 14 15.5 A 4.5000001 4.5000001 0 0 0 13.917969 14.658203 L 18.595703 11.929688 A 4.5000001 4.5000001 0 0 0 21.5 13 A 4.5000001 4.5000001 0 0 0 26 8.5 A 4.5000001 4.5000001 0 0 0 21.5 4 z "
        id="path11" />
-    <path
-       style="fill:url(#linearGradient42)"
-       d="m 21.500001,3.9999996 a 4.5000001,4.5000001 0 0 0 -4.5,4.5000002 A 4.5000001,4.5000001 0 0 0 21.500001,13 4.5000001,4.5000001 0 0 0 26,8.4999998 4.5000001,4.5000001 0 0 0 21.500001,3.9999996 Z"
-       id="path13" />
-    <path
-       style="fill:url(#linearGradient34)"
-       d="M 9.5000001,11 A 4.5000001,4.5000001 0 0 0 5,15.5 4.5000001,4.5000001 0 0 0 9.5000001,20 4.5000001,4.5000001 0 0 0 14,15.5 4.5000001,4.5000001 0 0 0 9.5000001,11 Z"
-       id="path15" />
-    <path
-       style="fill:url(#linearGradient50)"
-       d="m 21.500001,18 a 4.5000001,4.5000001 0 0 0 -4.5,4.500001 A 4.5000001,4.5000001 0 0 0 21.500001,27 4.5000001,4.5000001 0 0 0 26,22.500001 4.5000001,4.5000001 0 0 0 21.500001,18 Z"
-       id="path17" />
   </g>
 </svg>
