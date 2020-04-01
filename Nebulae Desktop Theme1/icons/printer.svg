@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="printer.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient32">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop28" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop30" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient24">
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0"
+         id="stop20" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1"
+         offset="1"
+         id="stop22" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24"
+       id="linearGradient26"
+       x1="3"
+       y1="16.5"
+       x2="29"
+       y2="16.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient32"
+       id="linearGradient34"
+       x1="2"
+       y1="11"
+       x2="20"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     id="22-22-printer"
+     transform="translate(-473,135.01001)">
+    <rect
+       style="opacity:0.001"
+       width="22"
+       height="22"
+       x="505"
+       y="-125.01"
+       id="rect2" />
+    <path
+       style="fill:url(#linearGradient34)"
+       transform="translate(505.0006,-125.00672)"
+       d="M 6,3 V 6 H 16 V 3 Z M 3.2851562,7 C 2.6423063,7 2,7.5826756 2,8.1660156 V 12.833984 C 2,13.417324 2.6423063,14 3.2851562,14 H 5 v -2 h 12 v 2 h 1.714844 C 19.357694,14 20,13.417324 20,12.833984 V 8.1660156 C 20,7.5826756 19.357694,7 18.714844,7 Z M 6,13 v 6 h 10 v -6 z m 1,2 h 8 v 1 H 7 Z m 0,2 h 8 v 1 H 7 Z"
+       id="path4" />
+  </g>
+  <g
+     id="printer">
+    <rect
+       style="opacity:0.001"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect7" />
+    <path
+       style="fill:url(#linearGradient26)"
+       d="M 9 5 L 9 9 L 23 9 L 23 5 L 9 5 z M 4.8554688 11 C 3.9269077 11 3 11.832673 3 12.666016 L 3 19.333984 C 3 20.167327 3.9269078 21 4.8554688 21 L 7 21 L 7 18 L 25 18 L 25 21 L 27.144531 21 C 28.073092 21 29 20.167327 29 19.333984 L 29 12.666016 C 29 11.832673 28.073092 11 27.144531 11 L 4.8554688 11 z M 9 20 L 9 28 L 23 28 L 23 20 L 9 20 z M 11 22 L 21 22 L 21 24 L 11 24 L 11 22 z M 11 25 L 21 25 L 21 27 L 11 27 L 11 25 z"
+       id="path9" />
+  </g>
+</svg>
